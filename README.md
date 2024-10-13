@@ -37,7 +37,7 @@
 
 ```As victim POV he will enter the password```
 
-<img src="https://github.com/Infosec-Ivan/Capture-Fi/blob/main/screens/IMG_20240919_204540.JPG" alt="Screenshot" width="100"/>
+<img src="https://github.com/abdorhl/Capture_Pip/blob/main/screens/IMG_20240919_204540.JPG" alt="Screenshot" width="100"/>
 
 ```The password will be captured and will be shown in terminal```
 
