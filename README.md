@@ -1,5 +1,5 @@
 
-**Capture-Pip** is a lightweight tool built with **Python** and **HTML** It is a Wi-Fi Phishing Template with a Python server that can capture Wi-Fi password through **evil twin method**
+**Pswd_Capture_Fun** is a lightweight tool built with **Python** and **HTML** It is a Wi-Fi Phishing Template with a Python server that can capture Wi-Fi password through **evil twin method**
 
 ## Disclaimer ⚠️
 
@@ -33,11 +33,11 @@
 **Open Browser**<br>
 `http://<yourIP:8080>`
 
-<img src="https://github.com/abdorhl/Capture_Pip/blob/main/screens/IMG_20240919_204551.JPG" alt="Screenshot" width="100"/>
+<img src="https://github.com/abdorhl/Pswd_Capture_Fun/blob/main/screens/IMG_20240919_204551.JPG" alt="Screenshot" width="100"/>
 
 ```As victim POV he will enter the password```
 
-<img src="https://github.com/abdorhl/Capture_Pip/blob/main/screens/IMG_20240919_204540.JPG" alt="Screenshot" width="100"/>
+<img src="https://github.com/abdorhl/Pswd_Capture_Fun/blob/main/screens/IMG_20240919_204540.JPG" alt="Screenshot" width="100"/>
 
 ```The password will be captured and will be shown in terminal```
 
